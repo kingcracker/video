@@ -54,7 +54,7 @@ clear
 figlet "MR.51MB4H" | lolcat
 termux-setup-storage
 sleep 5
-mv HACK.zip $HOME /sdcard
+mv HACK.zip /sdcard
 echo $purple "SABAR YA CUK!!"
 sleep 7
 echo $green "masih load ANJING!!"
@@ -78,7 +78,7 @@ clear
 toilet "SERAM" | lolcat
 termux-setup-storage
 sleep 5
-mv  Takut.zip $HOME /sdcard
+mv  Takut.zip /sdcard
 echo $purple "SABAR YA CUK!!"
 sleep 7
 echo $green "masih load ANJING!!"
@@ -101,7 +101,7 @@ clear
 figlet  "KAGET" | lolcat
 termux-setup-storage
 sleep 5
-mv KAGET.zip $HOME/sdcard
+mv KAGET.zip /sdcard
 echo $purple "SABAR YA CUK!!"
 sleep 7
 echo $green "masih load ANJING!!"
